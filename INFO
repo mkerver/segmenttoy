@@ -1,0 +1,27 @@
+chamber simulation:
+defines.h
+chambergeometry.C
+
+pattern finding:
+pattern.C/h
+hough
+
+muon simulation: 
+segment.C
+gas rt -> rt.C michiganrt.C rtlisttime (timestamp)
+
+
+segment finding:
+hits -> dc.C (coordinate transform)
+line -> Line.C
+refitting -> fit.C
+
+display:
+summary of fits -> readdata.C
+draw.C
+
+steering:
+testold
+options.txt
+
+

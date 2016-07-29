@@ -1,0 +1,12 @@
+0 0 1 0 0 0 1 0 0 0 0 22
+fe/rt_pub_run01619_cycle0020_20090128_112347.dat
+fe/rt_pub_run01619_cycle0020_20090128_112347.dat
+# jitter amt 1D angle position mezz internal_RT midlinegen read_data draw print
+Feb20/RT_run91060_EMS1A12.dat
+Feb20/RT_run91060_EMS1A12.dat
+rt_pub_run01626_cycle0022_20090226_105910.dat
+rt_pub_run01628_cycle0002_20090305_101012.dat
+rt_pub_run01625_cycle0014_20090225_030207.dat
+rt_pub_run01626_cycle0002_20090225_153334.dat
+Feb20/RT_run91060_EMS1A12.dat
+Feb20/RT_run91060_EMS5A04.dat
